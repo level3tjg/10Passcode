@@ -1,0 +1,10 @@
+Package: com.level3tjg.10passcode
+Name: 10Passcode
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS 10 style passcode keypad for iOS 11+
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.10passcode
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
